@@ -1,0 +1,1 @@
+Created to practice animating a 3D mesh created in Blender using the Unity mesh animation features.

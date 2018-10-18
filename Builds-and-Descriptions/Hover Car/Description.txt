@@ -1,0 +1,3 @@
+Created to practice using hinges and joints as well as physics in Unity.
+
+Use WASD to mmove around and interact with the objects on the map.

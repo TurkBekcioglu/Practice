@@ -1,0 +1,3 @@
+Created to practice using mesh navigation.
+
+Click anywhere on the terrain to have the character navigate to it, avoiding all obstacles as it does.

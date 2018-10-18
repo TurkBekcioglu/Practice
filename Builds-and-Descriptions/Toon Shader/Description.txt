@@ -1,0 +1,4 @@
+Create to practice using shaders in Unity.
+Currently this is an example of a toon shader.
+
+https://en.wikipedia.org/wiki/Cel_shading

@@ -1,0 +1,3 @@
+Created to prcatice setting up 2D animations in Unity using a sprite sheet and the animation controller.
+
+Use the WASD or arrow keys to cycle through the animations.
